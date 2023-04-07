@@ -12,4 +12,4 @@
 1. Shazam Core (Rapid API)
 2. GeoApiFy
 
-## Built By Rahul Arora
+## Built By Nupur Gohite
